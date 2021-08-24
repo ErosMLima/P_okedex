@@ -6,11 +6,7 @@ P_okedex  | Beta
 
 <p align="center">
 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/erosmlima/React-PokeDex">
-
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/erosmlima/React-PokeDex">
-
-<a href="https://www.linkedin.com/in/erosmlima/">
+<a href="https://www.linkedin.com/in/%E2%9A%A1%EF%B8%8Feros-mlima-ex-ey-57a405198/">
     <img alt="Made by ErosMlima" src="https://img.shields.io/badge/made%20by-erosmlima-blue">
 </a>
 
