@@ -80,8 +80,6 @@ ou por fim "npm run dev" (React/Node) ou ng serve (Angular)
 ```bash
 # O servidor iniciara na porta:3000 - acesse http://localhost:3000
 
-aí já pode usar a porta 3000/4200
-
 ```
 
 
