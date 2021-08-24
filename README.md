@@ -14,19 +14,6 @@ P_okedex  | Beta
     <img alt="Made by ErosMlima" src="https://img.shields.io/badge/made%20by-erosmlima-blue">
 </a>
 
-<a href="https://github.com/erosmlima/React-PokeDex/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/erosmlima/React-PokeDex?color=blue">
-</a>
-
-<img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
-
-</p>
-
-<p align="center">
-
-<a href="https://reactjs.org/">
-  <img alt="ReactJS" src="https://img.shields.io/static/v1?color=blue&label=React&message=JS&?style=plastic&logo=React">
-</a>
 
 </p>
 <h2 align="center">
